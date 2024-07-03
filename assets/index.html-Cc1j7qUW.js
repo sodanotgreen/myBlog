@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-7547aab4","path":"/tags/jiagousheji/1/","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{a as data};

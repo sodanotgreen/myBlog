@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-44519596","path":"/blogs/Leetcode/dfs/1553.html","title":"1553. 吃掉 N 个橘子的最少天数","lang":"en-US","frontmatter":{"title":"1553. 吃掉 N 个橘子的最少天数","date":"2023/05/12","tags":["搜索回溯"],"categories":["leetcode"]},"headers":[],"git":{},"filePathRelative":"blogs/Leetcode/dfs/1553.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-fba58c92","path":"/blogs/Leetcode/dp/1883.html","title":"1883. 准时抵达会议现场的最小跳过休息次数","lang":"en-US","frontmatter":{"title":"1883. 准时抵达会议现场的最小跳过休息次数","date":"2023/04/21","tags":["动态规划"],"categories":["leetcode"]},"headers":[],"git":{},"filePathRelative":"blogs/Leetcode/dp/1883.md"}');export{e as data};

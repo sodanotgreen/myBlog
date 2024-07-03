@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-641a95c4","path":"/blogs/Leetcode/mock/2391.html","title":"2391. 收集垃圾的最少总时间","lang":"en-US","frontmatter":{"title":"2391. 收集垃圾的最少总时间","date":"2023/05/12","tags":["模拟"],"categories":["leetcode"]},"headers":[],"git":{},"filePathRelative":"blogs/Leetcode/mock/2391.md"}');export{e as data};

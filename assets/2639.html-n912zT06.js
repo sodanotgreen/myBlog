@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5450c5a6","path":"/blogs/Leetcode/mock/2639.html","title":"2639. 查询网格图中每一列的宽度","lang":"en-US","frontmatter":{"title":"2639. 查询网格图中每一列的宽度","date":"2023/04/27","tags":["模拟"],"categories":["leetcode"]},"headers":[],"git":{},"filePathRelative":"blogs/Leetcode/mock/2639.md"}');export{e as data};

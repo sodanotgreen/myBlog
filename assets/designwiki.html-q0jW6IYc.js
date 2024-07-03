@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-686d5304","path":"/blogs/Offer/design/designwiki.html","title":"技术方案设计文档","lang":"en-US","frontmatter":{"title":"技术方案设计文档","date":"2023/05/19","tags":["架构设计"],"categories":["offer"]},"headers":[{"level":2,"title":"文档目录","slug":"文档目录","link":"#文档目录","children":[]}],"git":{},"filePathRelative":"blogs/Offer/design/designwiki.md"}');export{e as data};

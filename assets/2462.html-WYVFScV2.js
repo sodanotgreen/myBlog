@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6e64780c","path":"/blogs/Leetcode/queue/2462.html","title":"2462. 雇佣 K 位工人的总代价","lang":"en-US","frontmatter":{"title":"2462. 雇佣 K 位工人的总代价","date":"2023/05/04","tags":["优先队列"],"categories":["leetcode"]},"headers":[],"git":{},"filePathRelative":"blogs/Leetcode/queue/2462.md"}');export{e as data};

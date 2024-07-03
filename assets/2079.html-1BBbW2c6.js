@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3a297cf7","path":"/blogs/Leetcode/mock/2079.html","title":"2079. 给植物浇水","lang":"en-US","frontmatter":{"title":"2079. 给植物浇水","date":"2023/05/10","tags":["模拟"],"categories":["leetcode"]},"headers":[],"git":{},"filePathRelative":"blogs/Leetcode/mock/2079.md"}');export{e as data};

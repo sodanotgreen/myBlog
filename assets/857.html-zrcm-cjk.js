@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-54ee4100","path":"/blogs/Leetcode/queue/857.html","title":"857. 雇佣 K 名工人的最低成本","lang":"en-US","frontmatter":{"title":"857. 雇佣 K 名工人的最低成本","date":"2023/05/04","tags":["优先队列"],"categories":["leetcode"]},"headers":[],"git":{},"filePathRelative":"blogs/Leetcode/queue/857.md"}');export{e as data};

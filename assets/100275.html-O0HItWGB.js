@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-a4a54a82","path":"/blogs/Leetcode/string/100275.html","title":"100275. K 周期字符串需要的最少操作次数","lang":"en-US","frontmatter":{"title":"100275. K 周期字符串需要的最少操作次数","date":"2023/05/05","tags":["字符串"],"categories":["leetcode"]},"headers":[],"git":{},"filePathRelative":"blogs/Leetcode/string/100275.md"}');export{e as data};
